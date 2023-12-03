@@ -1,0 +1,9 @@
+name
+lock
+chess
+phone
+ringtone
+rubiks
+octagon
+button
+password
